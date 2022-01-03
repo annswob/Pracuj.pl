@@ -40,4 +40,4 @@ There's so much confusion, I just can't get no relief :(
 
 # Pracuj.pl: User Manual
 ## Introduction
-Are you looking for a job in Poland? If you are new here or still have problems with the Polish language (understandable, as it is one of the hardest in the world!), you might be searching on international platforms, such as LinkedIn or Glassdoor. However, it is always a good idea to go local. This user-friendly guide will help you to quickly install and use Pracuj.pl – the biggest national platform with job offers, available only in Polish.
+Are you looking for a job in Poland? If you are new here or still have problems with the Polish language (understandable, as it is one of the hardest in the world!), you might be searching on international platforms, such as [LinkedIn](https://www.linkedin.com/) or [Glassdoor](https://www.glassdoor.com/index.htm). However, it is always a good idea to go local. This user-friendly guide will help you to quickly install and use Pracuj.pl – the biggest national platform with job offers, available only in Polish.
