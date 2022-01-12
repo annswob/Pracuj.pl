@@ -8,6 +8,7 @@
       1. [By keyword](#by-keyword)
       2. [By location](#by-location)
       3. [By categories](#by-categories)
+      4. [Search results](#search-results)
    4. [Glossary](#glossary)
 3. [User Guide](#user-guide)
 
@@ -87,9 +88,17 @@ After defining your critieria, tap *Szukaj* (*search*).
 
 It is also possible to browse the offers by categories. This can be useful if you're unsure what position you are looking for, but have a general idea about your preferred field. You can start by defining your [location](#by-location) or entirely skip this step.
 
-At the bottom of the screen, you can see the following categories:
+At the bottom of the screen, you can choose from the following categories:
 
 <img src="categories.jpg" alt="categories" style="width:1700px; height:100px"/>
+
+**Important tip 4:** In order to check a specific category name in English, refer to the [Glossary](#glossary)
+
+#### Search results
+
+After defining the search criteria used in our example (Technical Writer in Warsaw), we are greeted by the following job offers:
+
+<img src="results.jpg" alt="results" style="width:450px; height:550px"/>
 
 ### Glossary
 
