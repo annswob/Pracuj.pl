@@ -98,7 +98,7 @@ At the bottom of the screen, you can choose from the following categories:
 
 After defining the search criteria used in our example (Technical Writer in Warsaw), we are greeted by the following job offers:
 
-<img src="results.jpg" alt="results" style="width:450px; height:550px"/>
+<img src="results.jpg" alt="results" style="width:450px; height:700px"/>
 
 ### Glossary
 
