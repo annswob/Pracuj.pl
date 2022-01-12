@@ -1,11 +1,8 @@
-Sample document
 ===============
 
-<!-- Here comes the TOC -->
-Table of content
+Table of contents
 
-1. [Sample document](#sample-document)
-2. [Pracuj.pl: User Manual](#pracujpl-user-manual)
+1. [Pracuj.pl: User Manual](#pracujpl-user-manual)
    1. [Introduction](#introduction)
    2. [Application Quickstart Guide](#application-quickstart-guide)
       1. [How to download the **Pracuj.pl app**?](#how-to-download-the-pracujpl-app)
