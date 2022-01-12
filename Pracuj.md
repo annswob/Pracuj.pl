@@ -63,6 +63,6 @@ Let's look at the installation process when using an Android device. After enter
 
 Click on **install**. Then, you should see these options:
 
-<img src="open.jpg" alt="open" style="width:450px; height:400px"/>
+<img src="open.jpg" alt="open" style="width:450px; height:350px"/>
 
 ### First steps
