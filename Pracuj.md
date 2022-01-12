@@ -59,6 +59,6 @@ Depending on the device that you use, you can download the app from:
 
 Let's look at the installation process when using an Android device. After entering [GooglePlay](https://play.google.com/store/apps/details?id=pl.pracuj.android.jobsearcher&shortlink=51679bb6&pid=autopromo&c=autopromo_stopka_sg), you should see the following screen:
 
-<img src="install.jpg" alt="install" style="width:200px; height:200px"/>
+<img src="install.jpg" alt="install" style="width:400px; height:400px"/>
 
 ### First steps
