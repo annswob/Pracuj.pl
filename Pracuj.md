@@ -71,5 +71,5 @@ Click on **open**. The application is ready to be used now!
 
 The application is ready to be used now! Before you can search for a job, it gives you the option to create an account. This is a very useful feature that allows you to save job offers, apply for jobs, and create your own documents, such as CVs and cover letters. Your screen should now look like this:
 
-<img src="starting.jpg" alt="starting" style="width:450px; height:800px"/>
+<img src="starting.jpg" alt="starting" style="width:450px; height:900px"/>
 
