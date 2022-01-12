@@ -1,17 +1,14 @@
-===============
+**Table of contents**
 
-Table of contents
-
-1. [Pracuj.pl: User Manual](#pracujpl-user-manual)
-   1. [Introduction](#introduction)
-   2. [Application Quickstart Guide](#application-quickstart-guide)
-      1. [How to download the **Pracuj.pl app**?](#how-to-download-the-pracujpl-app)
-      2. [First steps](#first-steps)
-   3. [User Guide](#user-guide)
+1. [Introduction](#introduction)
+2. [Application Quickstart Guide](#application-quickstart-guide)
+   1. [How to download the **Pracuj.pl app**?](#how-to-download-the-pracujpl-app)
+   2. [First steps](#first-steps)
+3. [User Guide](#user-guide)
 
 
 
-# Pracuj.pl: User Manual
+# Pracuj.pl: User Manual <!-- omit in toc -->
 ## Introduction
 Are you a foreigner looking for a job in Poland? If you are new here or still have problems with the Polish language (understandable, as it is one of the hardest in the world!), you might be searching for work on international platforms, such as [LinkedIn](https://www.linkedin.com/) or [Glassdoor](https://www.glassdoor.com/index.htm).
 
