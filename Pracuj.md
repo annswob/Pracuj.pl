@@ -89,7 +89,7 @@ It is also possible to browse the offers by categories. This can be useful if yo
 
 At the bottom of the screen, you can see the following categories:
 
-<img src="categories.jpg" alt="categories" style="width:1500px; height:300px"/>
+<img src="categories.jpg" alt="categories" style="width:1700px; height:100px"/>
 
 ### Glossary
 
