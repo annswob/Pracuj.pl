@@ -65,4 +65,11 @@ Click on **install**. Then, you should see these options:
 
 <img src="open.jpg" alt="open" style="width:450px; height:350px"/>
 
+Click on **open**. The application is ready to be used now!
+
 ### First steps
+
+The application is ready to be used now! Before you can search for a job, it gives you the option to create an account. This is a very useful feature that allows you to save job offers, apply for jobs, and create your own documents, such as CVs and cover letters. Your screen should now look like this:
+
+<img src="starting.jpg" alt="starting" style="width:450px; height:800px"/>
+
