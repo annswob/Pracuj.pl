@@ -7,6 +7,8 @@
    3. [Searching for a job](#searching-for-a-job)
       1. [By keyword](#by-keyword)
       2. [By location](#by-location)
+      3. [By categories](#by-categories)
+   4. [Glossary](#glossary)
 3. [User Guide](#user-guide)
 
 
@@ -73,12 +75,22 @@ After choosing your location, you can also broaden your search by defining the p
 
 <img src="search2.jpg" alt="search2" style="width:450px; height:550px"/>
 
-In the second field, on the right, you can now **define the distance** from your preferred location. After tapping the **+0 km*** option, you will see the range of numbers, from 0 to 50 km. This means that if you define the distance as 10 km, the app will show you jobs that are located within 10 km from Warsaw. This feature is best to use when you are flexible with your location, but not if you want your job to be in the city center.
+In the second field, on the right, you can now **define the distance** from your preferred location. After tapping the **+0 km** option, you will see the range of numbers, from 0 to 50 km. This means that if you define the distance as 10 km, the app will show you jobs that are located within 10 km from Warsaw. This feature is best to use when you are flexible with your location, but not if you want your job to be in the city center.
 
-**Important tip 2:** Sometimes, the job location does not matter. Do not use the location field if you are looking for a remote opportunity or are open to relocation to any part of the country.
+**Important tip 2:** Sometimes, the job location does not matter. Do not use the location field if you are looking for a remote opportunity or are open to relocate to any part of the country.
 
 **Important tip 3:** Under the location field, you can find the *dodaj więcej filtrów* (*add more filters*) option. It allows you to further specify your job search by defining: your professional field, type of contract, work schedule, position level, salary, time when the offer was published, and work mode. You can learn more about these features in our complete [User Guide](#user-guide) (in preparation).
 
-After defining your critieria, tap *Szukaj* (*search*)
+After defining your critieria, tap *Szukaj* (*search*).
+
+#### By categories
+
+It is also possible to browse the offers by categories. This can be useful if you're unsure what position you are looking for, but have a general idea about your preferred field. You can start by defining your [location](#by-location) or entirely skip this step.
+
+At the bottom of the screen, you can see the following categories:
+
+<img src="categories.jpg" alt="categories" style="width:1500px; height:300px"/>
+
+### Glossary
 
 ## User Guide
