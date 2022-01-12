@@ -10,7 +10,7 @@
       3. [By categories](#by-categories)
       4. [Search results](#search-results)
 3. [Glossary](#glossary)
-4. [User Guide](#user-guide)
+4. [User Guide - to be continued](#user-guide---to-be-continued)
 
 
 
@@ -18,7 +18,7 @@
 ## Introduction
 **Are you a foreigner looking for a job in Poland?** If you are new here or still have problems with the Polish language (understandable, as it is one of the hardest in the world!), you might be searching for work on international platforms, such as [LinkedIn](https://www.linkedin.com/) or [Glassdoor](https://www.glassdoor.com/index.htm).
 
-However, it is always a good idea to go local. That way, you can broaden your search and increase your chances of landing a better position. This user-friendly **guide** will help you to quickly **install** and **use** the application provided by [Pracuj.pl](https://www.pracuj.pl) – one of the biggest national platforms with job offers, available only in Polish.
+However, it is always a good idea to go local. That way, you can broaden your search and increase your chances of landing a better position. This user-friendly **guide** will help you to quickly **install** and **use** the application provided by [Pracuj.pl](https://www.pracuj.pl) – one of the biggest national platforms with job offers.
 ## Application Quickstart Guide
 First, let's learn how to **download, install** and **discover the basic features** of the **Pracuj.pl app**. Without creating an account, you will be able to browse jobs by:
 
@@ -33,7 +33,7 @@ First, let's learn how to **download, install** and **discover the basic feature
   
 If you wish to **create an account** and explore the advanced functions of the **Pracuj.pl app**, refer to our complete [User Guide](#user-guide) (in preparation).
 
-For terminology issues (after all, the app is only in Polish...), feel free to use our [glossary](#glossary).
+For terminology issues (after all, the app is available only in Polish...), feel free to use our [glossary](#glossary).
 
 ### Downloading and installing the app
 Depending on the device that you use, you can download the **Pracuj.pl app** from:
@@ -53,11 +53,11 @@ Tap *open*.
 
 ### Entering the app
 
-The application is ready to be used! Your screen should now look like this:
+The application is ready to be used! Your screen should look like this:
 
 <img src="starting.jpg" alt="starting" style="width:450px; height:900px"/>
 
-Let's skip the login and register options and click directly on *Pomiń* (*skip*). You can find this option on the top right-hand corner of your screen.
+Let's skip the login and register options for now and directly tap *Pomiń* (*skip*). You can find this option on the top right-hand corner of your screen.
 
 The following search options and categories will appear:
 
@@ -94,6 +94,8 @@ At the bottom of the screen, you can choose from the following categories:
 
 <img src="categories.jpg" alt="categories" style="width:1700px; height:100px"/>
 
+They include options such as *Aplikuj szybko*(*apply fast*) - jobs with a simplified application process - or *pierwsza praca*(*first job*) - a great option if you have little or no professional experience.
+
 **Important tip 4:** In order to check a specific category name in English, refer to the [Glossary](#glossary)
 
 #### Search results
@@ -102,7 +104,7 @@ After defining the desired search criteria, you should see the job offers that m
 
 <img src="results.jpg" alt="results" style="width:450px; height:800px"/>
 
-You can now freely browse and compare them. Best of luck in your search!
+You can now freely browse and compare them. **Best of luck in your search!**
 
 ## Glossary
 
@@ -132,4 +134,4 @@ Here you can find the translation from Polish to English of the words and expres
 | zarejestruj się  | register  |
 
 
-## User Guide
+## User Guide - to be continued
