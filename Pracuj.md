@@ -14,9 +14,18 @@ Are you a foreigner looking for a job in Poland? If you are new here or still ha
 
 However, it is always a good idea to go local: that way, you can broaden your search and increase your chances of landing a better position. This user-friendly guide will help you to quickly install and use the application provided by [Pracuj.pl](https://www.pracuj.pl) – one of the biggest national platforms with job offers, available only in Polish.
 ## Application Quickstart Guide
-This Quickstart Guide will walk you through the basic functions of the **Pracuj.pl app**: downloading the app, installing it on your device and searching for a job without creating an account.
+First, let's learn how to **download, install** and **discover the basic features** of the **Pracuj.pl app**. Without creating an account, you will be able to browse jobs by:
 
-If you wish to create an account and learn about the more advanced functions of the **Pracuj.pl app**, such as applying for jobs, go to the more detailed [User Guide](#user-guide)
+* key words,
+* location,
+* category.
+
+**Creating an account** gives you a lot more possibilities. This useful feature allows you to:
+* save job offers, 
+* apply for jobs,
+* create your own documents, such as CVs and cover letters.
+  
+If you wish to **create an account** and explore the advanced functions of the **Pracuj.pl app**, refer to our complete [User Guide](#user-guide)  (in preparation).
 
 ### How to download the **Pracuj.pl app**?
 Depending on the device that you use, you can download the app from:
