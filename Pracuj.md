@@ -108,9 +108,9 @@ You can now freely browse and compare them. Best of luck in your search!
 
 | PL | EN |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
+| administracja biurowa  |   |
+|aplikuj szybko   |  apply fast |
+|  dodaj więcej filtrów |   add more filters|
 |   |   |
 |   |   |
 |   |   |
