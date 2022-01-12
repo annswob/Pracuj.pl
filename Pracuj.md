@@ -68,7 +68,7 @@ If you are looking for a new job, you certainly have a position that you are qua
 **Important tip 1:** employers who use the **Pracuj.pl app** very often publish in English. So, you don't need to speak Polish to use the search feature!
 
 #### By location
-Do you already live in a great city? Are you looking to move to a place that offers more opportunities? In both cases, you can use the *miasto lub województwo* (*city or voivodeship*) field. It allows you search for a job in your preferred location: either by city or voivodeship (a Polish administrative region). After tapping it, you will see the list of the biggest Polish cities. You can either choose one of the given options or type your own:
+Do you already live in a great city? Or are you looking to move to a place that offers more opportunities? In both cases, you can use the *miasto lub województwo* (*city or voivodeship*) field. It allows you search for a job in your preferred location: either by city or voivodeship (a Polish administrative region). After tapping it, you will see the list of the biggest Polish cities. You can either choose one of the given options or type your own:
 
 <img src="cities.jpg" alt="cities" style="width:450px; height:900px"/>
 
@@ -96,9 +96,11 @@ At the bottom of the screen, you can choose from the following categories:
 
 #### Search results
 
-After defining the search criteria used in our example (Technical Writer in Warsaw), we are greeted by the following job offers:
+After defining the desired search criteria, you should see the job offers that meet your expectations:
 
-<img src="results.jpg" alt="results" style="width:450px; height:700px"/>
+<img src="results.jpg" alt="results" style="width:450px; height:800px"/>
+
+You can now freely browse and compare them. Best of luck in your search!
 
 ### Glossary
 
