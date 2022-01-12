@@ -50,7 +50,7 @@ However, it is always a good idea to go local: that way, you can broaden your se
 ## Application Quickstart Guide
 This Quickstart Guide will walk you through the basic functions of the **Pracuj.pl app**: downloading the app, installing it on your device and searching for a job without creating an account.
 
-If you wish to create an account and learn about the more advanced functions of the **Pracuj.pl app**, such as applying for jobs, go to the more detailed [UserGuide](##UserGuide)
+If you wish to create an account and learn about the more advanced functions of the **Pracuj.pl app**, such as applying for jobs, go to the more detailed [User Guide](#user-guide)
 
 ### How to download the **Pracuj.pl app**?
 Depending on the device that you use, you can download the app from:
