@@ -3,7 +3,9 @@
 1. [Introduction](#introduction)
 2. [Application Quickstart Guide](#application-quickstart-guide)
    1. [Downloading and installing the app](#downloading-and-installing-the-app)
-   2. [Setting up the app](#setting-up-the-app)
+   2. [Entering the app](#entering-the-app)
+   3. [Searching for a job](#searching-for-a-job)
+      1. [By keyword](#by-keyword)
 3. [User Guide](#user-guide)
 
 
@@ -45,7 +47,7 @@ Click on *install*. Then, you should see these options:
 
 Click on *open*.
 
-### Setting up the app
+### Entering the app
 
 The application is ready to be used! Your screen should now look like this:
 
@@ -54,5 +56,8 @@ The application is ready to be used! Your screen should now look like this:
 Let's skip the login and register options and click directly on *Pomiń* (*skip*). The following search options and categories will appear on your screen:
 
 <img src="search1.jpg" alt="search1" style="width:450px; height:900px"/>
+
+### Searching for a job
+#### By keyword
 
 ## User Guide
