@@ -69,9 +69,9 @@ Do you already live in a great city? Are you looking to move to a place that off
 
 <img src="cities.jpg" alt="cities" style="width:450px; height:900px"/>
 
-After choosing your location, you can also broaden your search by defining the preferred distance from it. This is the screen after searching for a job position **Technical Writer** in the city of **Warsaw**:
+After choosing your location, you can also broaden your search by defining the preferred distance from it. This is the screen after searching for a **Technical Writer** position in the city of **Warsaw**:
 
-<img src="search2.jpg" alt="search2" style="width:450px; height:400px"/>
+<img src="search2.jpg" alt="search2" style="width:450px; height:500px"/>
 
 
 
