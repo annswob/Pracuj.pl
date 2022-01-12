@@ -62,12 +62,17 @@ Let's skip the login and register options and click directly on *Pomiń* (*skip*
 #### By keyword
 If you are looking for a new job, you certainly have a position that you are qualified for or simply interested in. Or maybe there is this one company that has caught your attention? This is where the *stanowisko lub firma* (*position or company*) field comes in. Here, you can enter a job name (for example: Product Owner, Technical Writer, FrontEnd Developer), a company name (Capgemini, Microsoft, Atlassian, etc.) or even a particular job skill (French, Spanish, Java, Jira). You can also combine the keywords and type more than one. However, try not to be too specific: typing too many keywords limits the number of available job offers.
 
-**Important tip!** Employers who use the **Pracuj.pl app** very often publish in English. So, you don't need to speak Polish to use the search feature!
+**Important tip:** employers who use the **Pracuj.pl app** very often publish in English. So, you don't need to speak Polish to use the search feature!
 
 #### By location
-Do you already live in a great city? Are you looking to move to a place that offers more opportunities? In both cases, you can use the *miasto lub województwo* (*city or voivodeship*) field. It allows you search for a job in your preferred location: either by city or voivodeship (a Polish administrative region). After tapping it, you will see the list of the biggest Polish cities. You can either choose of the given options or type your own:
+Do you already live in a great city? Are you looking to move to a place that offers more opportunities? In both cases, you can use the *miasto lub województwo* (*city or voivodeship*) field. It allows you search for a job in your preferred location: either by city or voivodeship (a Polish administrative region). After tapping it, you will see the list of the biggest Polish cities. You can either choose one of the given options or type your own:
 
 <img src="cities.jpg" alt="cities" style="width:450px; height:900px"/>
+
+After choosing your location, you can also broaden your search by defining the preferred distance from it. This is the screen after searching for a job position **Technical Writer** in the city of **Warsaw**:
+
+<img src="search2.jpg" alt="search2" style="width:450px; height:400px"/>
+
 
 
 ## User Guide
