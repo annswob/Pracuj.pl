@@ -100,7 +100,7 @@ They include options such as *Aplikuj szybko* (*apply fast*) - jobs with a simpl
 
 #### Search results
 
-After defining the desired search criteria, you should see the job offers that meet your expectations:
+After defining the desired search criteria, you should see the job offers that meet your expectations. They are arranged by date, starting from the most recently published:
 
 <img src="results.jpg" alt="results" style="width:450px; height:800px"/>
 
