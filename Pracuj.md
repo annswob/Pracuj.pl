@@ -28,7 +28,7 @@ First, let's learn how to **download, install** and **discover the basic feature
 * apply for jobs,
 * create your own documents, such as CVs and cover letters.
   
-If you wish to **create an account** and explore the advanced functions of the **Pracuj.pl app**, refer to our complete [User Guide](#user-guide)  (in preparation).
+If you wish to **create an account** and explore the advanced functions of the **Pracuj.pl app**, refer to our complete [User Guide](#user-guide) (in preparation).
 
 For terminology
 
@@ -62,7 +62,7 @@ Let's skip the login and register options and click directly on *Pomiń* (*skip*
 #### By keyword
 If you are looking for a new job, you certainly have a position that you are qualified for or simply interested in. Or maybe there is this one company that has caught your attention? This is where the *stanowisko lub firma* (*position or company*) field comes in. Here, you can enter a job name (for example: Product Owner, Technical Writer, FrontEnd Developer), a company name (Capgemini, Microsoft, Atlassian, etc.) or even a particular job skill (French, Spanish, Java, Jira). You can also combine the keywords and type more than one. However, try not to be too specific: typing too many keywords limits the number of available job offers.
 
-**Important tip:** employers who use the **Pracuj.pl app** very often publish in English. So, you don't need to speak Polish to use the search feature!
+**Important tip 1:** employers who use the **Pracuj.pl app** very often publish in English. So, you don't need to speak Polish to use the search feature!
 
 #### By location
 Do you already live in a great city? Are you looking to move to a place that offers more opportunities? In both cases, you can use the *miasto lub województwo* (*city or voivodeship*) field. It allows you search for a job in your preferred location: either by city or voivodeship (a Polish administrative region). After tapping it, you will see the list of the biggest Polish cities. You can either choose one of the given options or type your own:
@@ -73,6 +73,12 @@ After choosing your location, you can also broaden your search by defining the p
 
 <img src="search2.jpg" alt="search2" style="width:450px; height:550px"/>
 
+In the second field, on the right, you can now **define the distance** from your preferred location. After tapping the **+0 km*** option, you will see the range of numbers, from 0 to 50 km. This means that if you define the distance as 10 km, the app will show you jobs that are located within 10 km from Warsaw. This feature is best to use when you are flexible with your location, but not if you want your job to be in the city center.
 
+**Important tip 2:** Sometimes, the job location does not matter. Do not use the location field if you are looking for a remote opportunity or are open to relocation to any part of the country.
+
+**Important tip 3:** Under the location field, you can find the *dodaj więcej filtrów* (*add more filters*) option. It allows you to further specify your job search by defining: your professional field, type of contract, work schedule, position level, salary, time when the offer was published, and work mode. You can learn more about these features in our complete [User Guide](#user-guide) (in preparation).
+
+After defining your critieria, tap *Szukaj* (*search*)
 
 ## User Guide
