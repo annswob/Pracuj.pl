@@ -67,7 +67,7 @@ If you are looking for a new job, you certainly have a position that you are qua
 #### By location
 Do you already live in a great city? Are you looking to move to a place that offers more opportunities? In both cases, you can use the *miasto lub województwo* (*city or voivodeship*) field. It allows you search for a job in your preferred location: either by city or voivodeship (a Polish administrative region). After tapping it, you will see the list of the biggest Polish cities. You can either choose of the given options or type your own:
 
-<img src="citiesjpg" alt="cities" style="width:450px; height:900px"/>
+<img src="cities.jpg" alt="cities" style="width:450px; height:900px"/>
 
 
 ## User Guide
