@@ -96,7 +96,7 @@ At the bottom of the screen, you can choose from the following categories:
 
 They include options such as *Aplikuj szybko* (*apply fast*) - jobs with a simplified application process - or *pierwsza praca* (*first job*) - a great option if you have little or no professional experience.
 
-**Important tip 4:** In order to check a specific category name in English, refer to the [Glossary](#glossary)
+**Important tip 4:** In order to check a specific category name in English, refer to the [Glossary](#glossary).
 
 #### Search results
 
