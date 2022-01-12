@@ -57,4 +57,8 @@ Depending on the device that you use, you can download the app from:
 * [AppStore](https://apps.apple.com/PL/app/id386774884?mt=8&shortlink=c3bc3623&pid=autopromo&c=autopromo_stopka&af_dp=https%3A%2F%2Fapps.apple.com%2Fpl%2Fapp%2Fid386774884): for iOS devices,
 * [HUAWEIAppGallery](https://appgallery.huawei.com/#/app/C100957085?channelId=EUPLBDD20200805PR&detailType=0): for HUAWEI devices.
 
+Let's look at the installation process when using an Android device. After entering [GooglePlay](https://play.google.com/store/apps/details?id=pl.pracuj.android.jobsearcher&shortlink=51679bb6&pid=autopromo&c=autopromo_stopka_sg), you should see the following screen:
+
+![install](install.jpg)
+
 ### First steps
