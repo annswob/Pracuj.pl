@@ -19,6 +19,7 @@ Table of content
    2. [Application Quickstart Guide](#application-quickstart-guide)
       1. [How to download the **Pracuj.pl app**?](#how-to-download-the-pracujpl-app)
       2. [First steps](#first-steps)
+   3. [User Guide](#user-guide)
 
 <!-- Chapters with headers -->
 # Header of chapter
@@ -49,7 +50,7 @@ However, it is always a good idea to go local: that way, you can broaden your se
 ## Application Quickstart Guide
 This Quickstart Guide will walk you through the basic functions of the **Pracuj.pl app**: downloading the app, installing it on your device and searching for a job without creating an account.
 
-If you wish to create an account and learn about the more advanced functions of the **Pracuj.pl app**, such as applying for jobs, go to the more detailed User Guide.
+If you wish to create an account and learn about the more advanced functions of the **Pracuj.pl app**, such as applying for jobs, go to the more detailed [UserGuide](## User Guide)
 
 ### How to download the **Pracuj.pl app**?
 Depending on the device that you use, you can download the app from:
@@ -73,3 +74,4 @@ The application is ready to be used now! Before you can search for a job, it giv
 
 <img src="starting.jpg" alt="starting" style="width:450px; height:900px"/>
 
+## User Guide
