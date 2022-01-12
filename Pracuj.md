@@ -41,6 +41,7 @@ There's so much confusion, I just can't get no relief :(
 
 # Pracuj.pl: User Manual
 ## Introduction
-Are you a foreigner looking for a job in Poland? If you are new here or still have problems with the Polish language (understandable, as it is one of the hardest in the world!), you might be searching for work on international platforms, such as [LinkedIn](https://www.linkedin.com/) or [Glassdoor](https://www.glassdoor.com/index.htm). However, it is always a good idea to go local: that way, you can broaden your search and increase your chances of landing a better position. This user-friendly guide will help you to quickly install and use Pracuj.pl – one of the biggest national platforms with job offers, available only in Polish.
+Are you a foreigner looking for a job in Poland? If you are new here or still have problems with the Polish language (understandable, as it is one of the hardest in the world!), you might be searching for work on international platforms, such as [LinkedIn](https://www.linkedin.com/) or [Glassdoor](https://www.glassdoor.com/index.htm). 
+However, it is always a good idea to go local: that way, you can broaden your search and increase your chances of landing a better position. This user-friendly guide will help you to quickly install and use [Pracuj.pl](https://www.pracuj.pl) – one of the biggest national platforms with job offers, available only in Polish.
 ## Application Quickstart Guide
-This Quickstart Guide will show you the basic steps: how to download the Pracuj.pl application
+This Quickstart Guide will walk you through the basic functions of the Pracuj.pl app.
