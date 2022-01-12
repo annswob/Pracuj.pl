@@ -3,7 +3,7 @@
 1. [Introduction](#introduction)
 2. [Application Quickstart Guide](#application-quickstart-guide)
    1. [Downloading and installing the app](#downloading-and-installing-the-app)
-   2. [First steps](#first-steps)
+   2. [Setting up the app](#setting-up-the-app)
 3. [User Guide](#user-guide)
 
 
@@ -27,6 +27,8 @@ First, let's learn how to **download, install** and **discover the basic feature
   
 If you wish to **create an account** and explore the advanced functions of the **Pracuj.pl app**, refer to our complete [User Guide](#user-guide)  (in preparation).
 
+For terminology
+
 ### Downloading and installing the app
 Depending on the device that you use, you can download the **Pracuj.pl app** from:
 * [GooglePlay](https://play.google.com/store/apps/details?id=pl.pracuj.android.jobsearcher&shortlink=51679bb6&pid=autopromo&c=autopromo_stopka_sg): for Android and Chrome OS devices;
@@ -43,13 +45,13 @@ Click on *install*. Then, you should see these options:
 
 Click on *open*.
 
-### First steps
+### Setting up the app
 
 The application is ready to be used! Your screen should now look like this:
 
 <img src="starting.jpg" alt="starting" style="width:450px; height:900px"/>
 
-Let's skip the login and register options and click directly on *Pomiń* (*skip*). Search options and categories will appear on your screen:
+Let's skip the login and register options and click directly on *Pomiń* (*skip*). The following search options and categories will appear on your screen:
 
 <img src="search1.jpg" alt="search1" style="width:450px; height:900px"/>
 
